@@ -1,6 +1,6 @@
 # Hey, I'm Matt 👋
 
-<img src="luffy-gear-5.gif" width="600" />
+<img src="luffy-gear-5.gif" width="400" />
 
 🎓 B.S. in Computer Science @ University of Florida (2025) 🐊  
 💻 Software Analyst @ JM Family Enterprises (ITS Academy)  
