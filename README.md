@@ -1,67 +1,80 @@
-# Hey, I'm Matt 👋
+<!-- Profile Header -->
+<h1 align="center">Hey, I'm Matt 👋</h1>
 
-<img src="luffy-gear-5.gif" width="500" />
+<p align="center">
+  <img src="luffy-gear-5.gif" width="480" alt="Gear 5 energy" />
+</p>
 
-🎓 B.S. in Computer Science @ University of Florida (2025) 🐊  
-💻 Software Analyst @ JM Family Enterprises (ITS Academy)  
-🌐 Previous SWE Intern @ World Kinect
-☁️ AWS Certified Cloud Practitioner | Currently learning Azure (AZ-900)  
-🎧 DJ on the side | Miami-raised 🌴 | Anime fan (Gear 5 hype ⚡)
+<p align="center">
+  🎓 B.S. in Computer Science @ University of Florida (2025) 🐊 &nbsp;•&nbsp;
+  💻 Software Analyst @ JM Family (ITS Academy) &nbsp;•&nbsp;
+  🌐 Prev. SWE Intern @ World Kinect
+</p>
+
+<p align="center">
+  ☁️ AWS CCP &nbsp;|&nbsp; Studying Azure AZ-900 &nbsp;|&nbsp; 🎧 DJ on the side &nbsp;|&nbsp; Miami-raised 🌴 &nbsp;|&nbsp; Anime fan (Gear 5 hype ⚡)
+</p>
 
 ---
 
 ## ⚡ GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mattgoods&layout=compact&theme=tokyonight)  
+<a href="https://github.com/Mattgoods">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mattgoods&layout=compact&theme=tokyonight" />
+</a>
 
 ---
 
 ## 💼 Experience
 **Software Analyst – JM Family Enterprises (ITS Academy)** *(Aug 2025 – Present)*  
-- Rotating through development teams in a 9-month learning program.  
-- Gaining hands-on experience with modern software engineering practices, CI/CD, and cloud tools.  
-- Collaborating with mentors and peers on full-stack projects to prepare for a permanent engineering role.  
+- 9-month rotational program across engineering teams.  
+- Building full-stack features with modern tooling, CI/CD, and cloud services.  
+- Pairing with mentors to ramp into a permanent SWE role.
 
-**Software Engineer Intern – World Kinect (Summer 2024)**  
-- Migrated aviation fuel pricing pages to Angular + GraphQL + Spring Boot, boosting load speed ≈30%.  
-- Designed reusable UI components in Storybook to standardize SDLC workflows.  
-- Improved global load times ≈15% using New Relic + Docker analysis.  
-- Hackathon competitor: reimagined merchant management system.  
+**Software Engineer Intern – World Kinect** *(Summer 2024)*  
+- Migrated aviation fuel pricing pages to **Angular + GraphQL + Spring Boot** → ~**30% faster** loads.  
+- Built reusable components in **Storybook** to standardize workflows.  
+- Improved global performance ~**15%** using **New Relic** + Docker profiling.  
+- Hackathon: reimagined merchant management system.
 
 ---
 
 ## 🚀 Featured Projects
-- **[imHere](https://github.com/Mattgoods/swamp-kings)** (Full-stack Web App)  
-  → A real-time attendance and event tracking platform built for student organizations.  
-  → Features include live check-ins, member dashboards, and scalable backend design.  
+- **[imHere](https://github.com/Mattgoods/swamp-kings)** — Full-stack web app  
+  Real-time attendance & event tracking for student orgs: live check-ins, member dashboards, scalable backend.
 
-- **Wild Rydes Ride-Sharing App** (AWS Amplify, Cognito, Lambda, DynamoDB)  
-  → Real-time ride requests (<1s), token-based auth (+40% security), CI/CD pipelines.  
+- **Wild Rydes Ride-Sharing** — AWS Amplify · Cognito · Lambda · DynamoDB  
+  Near-instant ride requests (<1s), token-based auth, CI/CD pipelines.
 
-- **Aviation Fuel Pricing Margin Tool** (Angular + GraphQL)  
-  → Streamlined workflows in 200+ countries, reducing DB response times ≈35%.  
+- **Aviation Pricing Margin Tool** — Angular + GraphQL  
+  Streamlined workflows across 200+ countries, ~**35%** faster DB response.
 
 ---
 
 ## 🛠️ Skills & Tech
-**Languages:** C++, Java, JavaScript/TypeScript, SQL, C#, R, HTML/CSS  
-**Frameworks:** Angular, React, Node.js, Express, Spring Boot  
-**Cloud & Tools:** AWS, Azure, GitHub Actions, Bitbucket, Jira, Power BI, Docker  
-**Practices:** Agile (Scrum, Kanban), CI/CD, SDLC  
+**Languages:** C++, C#, Java, JavaScript/TypeScript, SQL, R, HTML/CSS  
+**Frameworks:** Angular, React, Node.js/Express, Spring Boot  
+**Cloud & Tools:** AWS, Azure, Docker, GitHub Actions, Bitbucket, Jira, Power BI  
+**Practices:** Agile (Scrum/Kanban), CI/CD, SDLC
 
 ---
 
 ## 📚 Current Grind
-- ⚡ Practicing LeetCode in C# / C++  
-- ☁️ Growing cloud expertise (Azure + AWS)  
-- 🌀 Full-stack projects with real-world scale  
+- LeetCode reps in **C#** and **C++**  
+- Deepening **Azure (AZ-900)** + **AWS**  
+- Shipping full-stack projects with real-world scale
+
+---
+
+## 🎧 Now Playing
+<!-- GitHub doesn't allow iframes; use a clickable cover instead -->
+<a href="https://open.spotify.com/track/1MbEoScHOKOkpI8rd7cXEU" target="_blank">
+  <img src="https://img.shields.io/badge/Spotify-Now_Playing-1DB954?logo=spotify&logoColor=white" alt="Spotify Now Playing" />
+</a>
 
 ---
 
 ## 🌎 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/matt-good/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matt%20Goodman-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/matt-good/)  
+📫 [Email Me](mailto:mgoodman624@gmail.com) · Miami, FL
 
-  
-📫 [Email Me](mailto:mgoodman624@gmail.com) | Miami, FL  
-
-  
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Mattgoods.Mattgoods)
